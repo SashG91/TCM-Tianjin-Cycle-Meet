@@ -102,15 +102,46 @@ footer a {
     color: whitesmoke;
 }
 
+/* hero image */
+.hero-outer {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+
+#cover-overlay, #cover-overlay h2, h3 {
+    color: #0074d0;
+    top: 200px;
+    right: 100px;
+}
+
 .responsive {
     width: 100%;
     height: auto;
+    position: relative;
+
+    /* animates zoom effect on loading page */
+    animation-name: hero-zoom;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
 }
+
+/* creates the level of zoom for hero image */
+@keyframes hero-zoom {
+    from {
+        transform: scaleX(1);
+    }
+
+    to {
+        transform: scaleX(1.1);
+    }
+}
+
 
 /* club details */
 
 .club-details {
-    height: 275px;
+    height: 320px;
     background-color: #b61614;
     padding: 10px;
     text-align: center;
@@ -118,4 +149,23 @@ footer a {
 
 .club-details h2 {
     padding: 10px;
+}
+
+#cover-overlay {
+    font-size: 150%;
+    font-family: 'Bebas Neue', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+
+    width: 250px;
+    height: 150px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+    background-color: rgba(255,255,255, .6);
+
+    bottom: 30px;
+    right: 5px;
+
+    position: absolute;
 }
