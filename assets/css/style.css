@@ -33,7 +33,7 @@ h3 {
 #logo {
     font-size: 210%;
     text-align: center;
-    padding: 10px;
+    padding: 5px;
 
 }
 
@@ -52,9 +52,43 @@ header a {
     align-items: center;
     font-family: 'Bebas Neue', sans-serif;
     text-transform: uppercase;
-    list-style: none;
+    list-style-type: none;
     margin-top: 5px;
-    margin-bottom: 10px;
+    padding-bottom: 20px;
     font-size: 150%;
 
+}
+
+.active {
+    border-bottom: 2px solid whitesmoke;
+}
+
+.nav-list a:hover {
+    border-bottom: 2px solid whitesmoke;
+}
+
+
+/* footer */
+
+ footer {
+    background-color: #003b81;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+ }   
+
+
+.socials {
+    list-style-type: none;
+    font-size: 150%;
+}
+
+footer a {
+    color: whitesmoke;
+    justify-content: center;
+    align-items: center;
 }
