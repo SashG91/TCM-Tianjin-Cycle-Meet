@@ -72,23 +72,33 @@ header a {
 
  footer {
     background-color: #003b81;
-    height: 100px;
+    height: 150px;
     width: 100%;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
-    justify-content: center;
-    align-items: center;
  }   
 
 
 .socials {
     list-style-type: none;
     font-size: 150%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
 }
 
 footer a {
     color: whitesmoke;
     justify-content: center;
     align-items: center;
+}
+
+.contact-us {
+    text-align: center;
+    margin-bottom: 5px;
+    padding: 10px;
+    margin-top: 15px;
+    line-height: 1.5;
+    color: whitesmoke;
 }
