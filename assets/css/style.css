@@ -39,4 +39,22 @@ h3 {
 
 header a {
     text-decoration: none;
+    color: whitesmoke;
+}
+
+/* navigation links */
+
+.nav-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Bebas Neue', sans-serif;
+    text-transform: uppercase;
+    list-style: none;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-size: 150%;
+
 }
