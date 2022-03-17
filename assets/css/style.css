@@ -9,14 +9,14 @@
 body {
     font-family: Roboto, sans-serif;
     font-weight: 300;
-    color: grey;
+    color: whitesmoke;
 }
 
 /* headings and logo */
 
 header {
     width: 100%;
-    background-color: #003b81;
+    background-color: #0074d0;
     padding-top: 10px;
 }
 
@@ -70,11 +70,11 @@ header a {
 
 /* footer */
 
- footer {
-    background-color: #003b81;
+footer {
+    background-color: #0074d0;
     height: 150px;
     width: 100%;
- }   
+}
 
 
 .socials {
@@ -98,14 +98,24 @@ footer a {
     text-align: center;
     margin-bottom: 5px;
     padding: 10px;
-    margin-top: 15px;
     line-height: 1.5;
     color: whitesmoke;
 }
 
-.hero-image img {
+.responsive {
     width: 100%;
-    height: 500px;
-    background-size: auto;
-    background-repeat: no-repeat;
+    height: auto;
+}
+
+/* club details */
+
+.club-details {
+    height: 275px;
+    background-color: #b61614;
+    padding: 10px;
+    text-align: center;
+}
+
+.club-details h2 {
+    padding: 10px;
 }
