@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@300&display=swap');
+
+* {
+    margin: 0%;
+    padding: 0%;
+    border: none;
+}
+
+body {
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    color: grey;
+}
+
+/* headings and logo */
+
+header {
+    width: 100%;
+    background-color: #003b81;
+    padding-top: 10px;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 140%;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: whitesmoke;
+}
+
+#logo {
+    font-size: 210%;
+    text-align: center;
+    padding: 10px;
+
+}
+
+header a {
+    text-decoration: none;
+}
