@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Tianjin Riding Club for hobby cyclists in Tianjin, China">
     <meta name="keywords" content="Tianjin cycling, cycling club, Tianjin, China">
-    
+
     <!--favicon-->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
@@ -37,7 +37,25 @@
             </ul>
         </nav>
     </header>
-
+    
+    <section class="form-section">
+        <form class="signup-form" method="POST" action="https://formdump.codeinstitute.net/">
+            <h2>Let's get into the correct gear! <i class="fas fa-sign-in-alt"></i> </h2>
+            <label for="fname">First Name</label>
+            <input id="fname" class="text-input" type="text" name="first_name" required />
+            <label for="lname">Last Name</label>
+            <input id="lname" class="text-input" type="text" name="last_name" required />
+            <label for="email">Email Address</label>
+            <input id="email" class="text-input" type="email" name="email_address" required />
+            <label for="road">Flat route</label>
+            <input id="road" type="radio" name="cycling_preference" value="flat route" required />
+            <label for="hill climbs">Hill climb</label>
+            <input id="hill climbs" type="radio" name="cycling_preference" value="hill climbs" />
+            <label for="best of both">Best of both</label>
+            <input id="best of both" type="radio" name="cycling_preference" value="both" />
+            <input class="join-button" type="submit_blank" value="Ready to ride!" />
+        </form>
+    </section>
     <footer>
         <div class="contact-us">
             <h2>Questions? Contact us!</h2>
