@@ -109,7 +109,9 @@ footer a {
     overflow: hidden;
 }
 
-#cover-overlay, #cover-overlay h2, h3 {
+#cover-overlay,
+#cover-overlay h2,
+h3 {
     color: #0074d0;
     top: 200px;
     right: 100px;
@@ -135,13 +137,12 @@ footer a {
     to {
         transform: scaleX(1.1);
     }
-}
-
-}
+        
+    }
 
 /* sign up image */
 .hero-outer {
-    width: 100%;
+    width: 150%;
     height: auto;
     overflow: hidden;
 }
@@ -171,7 +172,7 @@ footer a {
 
     padding-top: 40px;
     padding-left: 10px;
-    background-color: rgba(255,255,255, .6);
+    background-color: rgba(255, 255, 255, .6);
 
     bottom: 30px;
     right: 5px;
@@ -181,25 +182,17 @@ footer a {
 
 /* Form */
 
-.form-section {
-    clear: left;
-    background:
-    background-size: cover;
-    background-position: center;
-    height: 900px;
-}
-
 .signup-form {
-    margin: 150px 10% 0 0;
-    color: #fff;
-    background-color: rgba(194, 66, 77, 0.6);
-    max-width: 400px;
-    position: absolute;
-    left: 10%;
-    padding: 30px;
+color: #fff;
+background-color: rgba(182, 22, 20, .7);
+max-width: 400px;
+position: absolute;
+left: 45px;
+top: 170px;
+padding: 30px;
 }
 
-.signup-form > h2 {
+.signup-form>h2 {
     color: #fafafa;
     margin-bottom: 20px;
 }
@@ -220,10 +213,12 @@ footer a {
 
 .join-button {
     margin-top: 20px;
-    border-radius: 2px;
-    padding: 15px 32px 15px 32px;
+    border-radius: 4px;
+    padding: 10px;
     text-align: center;
-    font-size: 100%;
+    font-size: 120%;
+    font-family:'Bebas Neue', sans-serif;
+    text-transform: uppercase;
     background-color: #f16c6b;
     color: #fafafa;
     display: block;
