@@ -122,7 +122,7 @@ h3 {
     height: auto;
     position: relative;
 
-/* animates zoom effect on loading page */
+    /* animates zoom effect on loading page */
     animation-name: hero-zoom;
     animation-duration: 3s;
     animation-fill-mode: forwards;
@@ -137,8 +137,8 @@ h3 {
     to {
         transform: scaleX(1.1);
     }
-        
-    }
+
+}
 
 /* sign up image */
 .hero-outer {
@@ -182,13 +182,13 @@ h3 {
 /* Form */
 
 .signup-form {
-color: #fff;
-background-color: rgba(182, 22, 20, .7);
-max-width: 400px;
-position: absolute;
-left: 45px;
-top: 200px;
-padding: 30px;
+    color: #fff;
+    background-color: rgba(182, 22, 20, .7);
+    max-width: 400px;
+    position: absolute;
+    left: 45px;
+    top: 200px;
+    padding: 30px;
 }
 
 .signup-form>h2 {
@@ -218,7 +218,7 @@ padding: 30px;
     padding: 10px;
     text-align: center;
     font-size: 120%;
-    font-family:'Bebas Neue', sans-serif;
+    font-family: 'Bebas Neue', sans-serif;
     text-transform: uppercase;
     background-color: #f16c6b;
     color: #fafafa;
@@ -228,4 +228,58 @@ padding: 30px;
 .join-button:hover {
     background-color: #fafafa;
     color: #f16c6b;
+}
+
+/* Meeting locations */
+.meeting-locations {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.meet-1 {
+    text-align: center;
+    background-color: #b61614;
+    padding: 15px;
+}
+
+.meet-2 {
+    text-align: center;
+    background-color: #0074d0;
+    padding: 15px;
+}
+
+.mapouter {
+    position: relative;
+    text-align: right;
+    height: 300px;
+    width: 300px;
+}
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    height: 300px;
+    width: 300px;
+}
+
+.mapouter {
+    position: relative;
+    text-align: right;
+    height: 300px;
+    width: 300px;
+}
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    height: 300px;
+    width: 300px;
+}
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    height: 300px;
+    width: 300px;
 }
