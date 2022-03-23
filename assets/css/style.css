@@ -24,7 +24,7 @@ h1,
 h2,
 h3 {
     font-family: 'Bebas Neue', sans-serif;
-    font-size: 140%;
+    font-size: 180%;
     text-transform: uppercase;
     letter-spacing: 2px;
     color: whitesmoke;
@@ -115,14 +115,6 @@ footer a {
     overflow: hidden;
 }
 
-#cover-overlay,
-#cover-overlay h2,
-h3 {
-    color: #0074d0;
-    top: 200px;
-    right: 100px;
-}
-
 .home-responsive {
     width: 100%;
     height: auto;
@@ -160,10 +152,15 @@ h3 {
 /* club details */
 
 .club-details {
-    height: 350px;
+    height: 100%;
     background-color: #b61614;
     padding: 10px;
     text-align: center;
+}
+
+.club-details p {
+    line-height: 1.5;
+    padding: 5px;
 }
 
 .club-details h2 {
@@ -171,20 +168,20 @@ h3 {
 }
 
 #cover-overlay {
-    font-size: 150%;
+    font-size: 110%;
     font-family: 'Bebas Neue', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
 
     width: 250px;
-    height: 150px;
+    height: 120px;
 
-    padding-top: 40px;
-    padding-left: 10px;
+    padding: 20px;
     background-color: rgba(255, 255, 255, .6);
 
     bottom: 30px;
-    right: 5px;
+    right: 20px;
+    top: 200px;
 
     position: absolute;
 }
@@ -264,7 +261,11 @@ h3 {
 
 .location-heading {
     padding: 20px;
+}
 
+.location-heading p {
+    line-spacing: 1.5;
+    padding: 5px;
 }
 
 .gmap_canvas {
