@@ -290,3 +290,48 @@ footer a {
     background-color: rgba(182, 22, 20, .7);
     height: 100%;
 }
+
+/* media queries */
+
+
+/* extra large devices (desktops, less than 1200px) */
+@media (min-width: 1200px) {
+
+    body p {
+        font-size: 1.5rem;
+    }
+
+    h2, h3 {
+        font-size: 210%;
+    }
+
+   header {
+       display: flex;
+   }
+
+    #logo {
+        font-size: 320%;
+        margin-left: 20px;
+    }
+
+    .club-details {
+        padding: 25px;
+    }
+
+    nav {
+        margin-left: auto;
+        margin-right: 20px;
+        margin-top: 5px;
+        font-size: 150%;
+    }
+
+    .signup-form {
+        top: 150px;
+    }
+}
+
+
+
+/* large devices (laptops, less than 992px) */
+/* medium devices (tablets, less than 768px) */
+/* small devices (mobile phones, less than 576px) */
