@@ -8,6 +8,8 @@ Tianjin Cycle Meet (TCM) has the intention to motivate social cyclists into meet
 
 [Deployed url](https://sashg91.github.io/TCM-Tianjin-Cycle-Meet/)
 
+
+
 ## Table of Contents
 
 
@@ -33,10 +35,9 @@ Tianjin Cycle Meet (TCM) has the intention to motivate social cyclists into meet
 * 
 
 #### Images
--
+-The 
 
 #### Animations and Transitions
-
 -
 -
 
@@ -44,9 +45,16 @@ Tianjin Cycle Meet (TCM) has the intention to motivate social cyclists into meet
 
 
 ### Features
--
+#### Existing Features
+-Navigation Bar
+-Club Details
+-Footer
 
-#### Implemented Features
+-Routes
+
+-Signup page
+
+
 
 #### Future Features
 -
