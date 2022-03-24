@@ -6,6 +6,8 @@ Sashen_Govender
 ## Project Overview
 Tianjin Cycle Meet (TCM) has the intention to motivate social cyclists into meeting weekly to help in developing a structured cycle routine. It will attract cyclists from all districts across the city and will target both hobby and serious cyclists to support their training needs. The TCM site will be valuable to cyclists to see the details of when and where they need to meet to join the group rides.
 
+[Deployed url](https://sashg91.github.io/TCM-Tianjin-Cycle-Meet/)
+
 ## Table of Contents
 
 
