@@ -74,7 +74,7 @@ Table area
 **Manual Testing For Contact Form**
 
 ### Defect Tracking
-Bugs and problems 
+Bugs and problems were tracked using GitHub issues. Here is a [link](https://github.com/SashG91/TCM-Tianjin-Cycle-Meet/issues) for this project
 
 
 ### Defects of Note
