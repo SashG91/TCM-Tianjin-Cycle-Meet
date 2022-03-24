@@ -56,7 +56,10 @@ Tianjin Cycle Meet (TCM) has the intention to motivate social cyclists into meet
 -
 
 ### Validation Testing
-- [CSS Validator]
+- [CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsashg91.github.io%2FTCM-Tianjin-Cycle-Meet%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+The CSS is the same for every page so I only validated my index.html page.
+<img width="1315" alt="image" src="https://user-images.githubusercontent.com/97494070/159819475-01166390-459f-4604-93e6-a73912e1ed9c.png">
+
 - [HTML Validator]
 
 ### Cross Browser and Cross Device Testing
