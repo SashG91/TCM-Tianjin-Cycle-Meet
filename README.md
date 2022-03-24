@@ -88,7 +88,20 @@ Bugs and problems
 -
 
 ## Deployment
--
+1. Go to the settings section of the repository you are trying to deploy. https://github.com/SashG91/TCM-Tianjin-Cycle-Meet/settings
+
+2. Then select pages from the left hand rail. 
+<img width="1080" alt="image" src="https://user-images.githubusercontent.com/97494070/159815756-a6fb8642-aa44-49ff-9ff0-26ab7ecb41d4.png">
+
+3. In the sources section click on the none drop down menu and select main.
+<img width="687" alt="image" src="https://user-images.githubusercontent.com/97494070/159816006-2c455702-77c9-45a1-b5cf-0c05695aa6d8.png">
+
+4. Select save.
+<img width="775" alt="image" src="https://user-images.githubusercontent.com/97494070/159816126-2270317c-2a44-4198-97b3-e9999ae3b191.png">
+
+5. A blue section will appear with your deployed url.
+<img width="790" alt="image" src="https://user-images.githubusercontent.com/97494070/159816178-9fe3f958-7e0d-4f97-b2b2-2652b8ac4f18.png">
+
 
 ## Credits
 -
