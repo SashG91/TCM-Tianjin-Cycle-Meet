@@ -291,9 +291,34 @@ footer a {
     height: 100%;
 }
 
+/* Error 404 */
+.error-page {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 110%;
+    font-family: 'Bebas Neue', sans-serif;
+    padding: 15px;
+    width: 100%;
+    background: url('../images/bike-chainring.jpeg') no-repeat center center;
+    background-size: cover;
+    
+}
+
 /* media queries */
 
+/* small devices (mobile phones, less than 320px) */
+@media (min-width: 320px) {
+    #cover-overlay {
+        padding: 15px;
+        background-color: rgba(238, 238, 238, .5);
+        color: #0074d0;
+    }
+}
 
+
+/* small devices (mobile phones, less than 576px) */
+/* medium devices (tablets, less than 768px) */
+/* large devices (laptops, less than 992px) */
 /* extra large devices (desktops, less than 1200px) */
 @media (min-width: 1200px) {
 
@@ -332,6 +357,5 @@ footer a {
 
 
 
-/* large devices (laptops, less than 992px) */
-/* medium devices (tablets, less than 768px) */
-/* small devices (mobile phones, less than 576px) */
+
+
