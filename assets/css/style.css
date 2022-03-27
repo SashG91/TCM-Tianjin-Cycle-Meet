@@ -72,8 +72,11 @@ header a {
 
 footer {
     background-color: #0074d0;
-    height: 150px;
     width: 100%;
+}
+
+footer li {
+    margin: 0 10px 10px;
 }
 
 
@@ -161,10 +164,16 @@ footer a {
 .club-details p {
     line-height: 1.5;
     padding: 5px;
+    margin: .8rem;
 }
 
 .club-details h2 {
     padding: 10px;
+}
+
+.content-wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
 }
 
 #cover-overlay {
@@ -174,10 +183,10 @@ footer a {
     letter-spacing: 2px;
 
     width: 250px;
-    height: 120px;
+    height: fit-content;
 
     padding: 20px;
-    background-color: rgba(255, 255, 255, .6);
+    background-color: rgba(255, 255, 255, .7);
 
     bottom: 30px;
     right: 20px;
