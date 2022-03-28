@@ -299,6 +299,10 @@ footer a {
     border-style: double;
 }
 
+.gmap_canvas iframe {
+    width: 100%;
+}
+
 .mapouter {
     position: relative;
     text-align: right;
@@ -325,6 +329,13 @@ footer a {
     background: url('../images/bike-chainring.jpeg') no-repeat center center;
     background-size: cover;
     
+}
+.error-page h2 {
+    color: red;
+    background: #ffffff59;
+    height: fit-content;
+    padding: 10px;
+
 }
 
 /* media queries */
