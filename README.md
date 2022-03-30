@@ -44,7 +44,7 @@ Tianjin Cycle Meet (TCM) has the intention to motivate social cyclists into meet
 * Animations were applied to the home and and signup page images with the intention of catching the users attention once landing on the page. The social icons also had a transform effect applied to it, in order to give some character to the icons with the intention of attracting the user.
 
 #### Icons & Favicons
-* Icons were used to give the site more character and keep within the theme of cycling. The gear icon associated with the header is the central icon and was made consistent across all pages with the header. On the routes page specific icons were chosen to represent the choice of rides that were available to the user. The social icons chosen were used to give familiarity to the various social platforms.
+* Icons were used to give the site more character and keep within the theme of cycling. The gear icon associated with the header is the central icon and was made consistent across all pages with the header. On the routes page specific icons were chosen to represent the choice of rides that were available to the user. The social icons chosen were used to give familiarity to the various social platforms. Hover effects were applied to all navigation tabs, social icons and the submit button give the user more awareness.
 
 #### Maps
 * Satelite maps were used to show the meeting points and to some degree the terrain for the cycle options. The specific meeting points included text showing the address of the meeting point so that it is easier for first time users to identify where to meet and for returning users to either confirm a meeting point or perhaps find new/updated points.
