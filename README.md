@@ -56,13 +56,12 @@ Tianjin Cycle Meet (TCM) has the intention to motivate social cyclists into meet
 
 #### Existing Features
 
+##### Header
 ##### Navigation Bar
 ##### Club Details
-##### Footer
 ##### Routes
 ##### Signup page
-
-
+##### Footer
 
 #### Future Features
 -
@@ -84,10 +83,8 @@ Table area
 ### Manual Testing
 -
 
-**Manual Testing For Contact Form**
+**Manual Testing For Signup Form**
 
-
-**Manual Testing For Contact Form**
 
 ### Defect Tracking
 Bugs and problems were tracked using GitHub issues. Here is a [link](https://github.com/SashG91/TCM-Tianjin-Cycle-Meet/issues) for this project
