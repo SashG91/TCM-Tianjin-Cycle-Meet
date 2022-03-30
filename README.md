@@ -10,9 +10,11 @@ Welcome to Tianjin Cycle Meet (TCM) a local cycle initiative aimed to motivate b
 
 The goal for this project was to use html and CSS to create a easy to use site that motivates local cyclists into improving their fitness through the shared 
 
-[Deployed url](https://sashg91.github.io/TCM-Tianjin-Cycle-Meet/)
+Click on this link to view the deployed site [Deployed url](https://sashg91.github.io/TCM-Tianjin-Cycle-Meet/)
 
 <img width="977" alt="Screenshot 2022-03-30 at 22 18 12" src="https://user-images.githubusercontent.com/97494070/160858329-5fd90da6-b88e-47eb-9748-f157a058a106.png">
+
+## Table of Contents
 
 ## User Stories
 
@@ -32,14 +34,11 @@ The goal for this project was to use html and CSS to create a easy to use site t
 - Speak to someone about suggestions or have specific questions based on my previous involvments.
 
 ## User Profiles
-1. Andrew
+### Andy
 - Is a new local resident in Tianjin and has just taken on cycling as a hobby, he is unsure about his abilities having done a few rides on his own and worries about his confidence alone on the road, the idea of joining one of TCMs organized group rides offers him the support he needs.
 
-2. Lisa
+### Serena
 - Is an experienced road cyclist who has competed at a few events. She has her regular training routes, but would like to meet some new people and try out routes that she has never done before.
-
-
-## Table of Contents
 
 ## UX
 
@@ -63,8 +62,7 @@ The goal for this project was to use html and CSS to create a easy to use site t
 - blue (#0074d0)
 - White (#FAFAFA)
 
-![Tianjin_Cycle_Meet_Color Palette](https://user-images.githubusercontent.com/97494070/160862576-673a0c16-ddeb-4a66-a820-e3dedef86145.png)
-
+<img width="300" height= "300" alt="image" src="https://user-images.githubusercontent.com/97494070/160873327-a94436ad-6df7-4d51-a80e-89ec8f5e09ad.png">
 
 #### Typography
 * The website contains two primary font types 'Bebas Neue' for the header and headings which was then paired with the body text of Roboto using Google Fonts. Here is a [link](https://fonts.google.com/specimen/Raleway) which was used to compare and determine which fonts would compliment each other best for this sort of site. The inclusion of 'sans-serif' was applied as a fall-back font.
