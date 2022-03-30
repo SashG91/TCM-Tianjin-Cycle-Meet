@@ -35,16 +35,16 @@ Tianjin Cycle Meet (TCM) has the intention to motivate social cyclists into meet
 <img width="438" alt="image" src="https://user-images.githubusercontent.com/97494070/160759038-cf35ce19-f230-4a70-a65d-3c9d154bda39.png">
 
 #### Typography
-* The website contains two primary font types being that of 'Bebas Neue' for the header and headings which was then paired with the body text of Roboto using Google Fonts [link](https://fonts.google.com/specimen/Raleway) to contrast and determine which fonts would compliment each other. 'Bebas Neue' was used as for the  The inclusion of 'sans-serif' was applied to all font types as a secondary option if needed.
+* The website contains two primary font types being that of 'Bebas Neue' for the header and headings which was then paired with the body text of Roboto using Google Fonts. Here is a [link](https://fonts.google.com/specimen/Raleway) to contrast and determine which fonts would compliment each other. 'Bebas Neue' was used as for the  The inclusion of 'sans-serif' was applied to all font types as a secondary option if needed.
 
 #### Images
-* The images used across all three pages were chosen to represent a culture of motivation, inspiration and cycling fitness. The Home page hero image is aimed at providing and immediate sense of group support and shared enjoyment. The routes page chainring image was used mainly to give contrast to this page using an overlay effect. The bike cockpit on the signup page was aimed at depicting the feeling that the user is a step closer to their first organized group cycle.
+* The images for the site were chosen to represent a culture of motivation, inspiration and cycling fitness. The Home page hero image is aimed at providing and immediate sense of group support and shared enjoyment. The routes page chainring image was used mainly to give contrast to this page using an overlay effect. The bike cockpit on the signup page was aimed at depicting the feeling that the user is a step closer to their first organized group cycle.
 
 #### Animations
 * Animations were applied to the home and and signup page images with the intention of catching the users attention once landing on the page. The social icons also had a transform effect applied to it, in order to give some character to the icons with the intention of attracting the user.
 
-#### Icons & Favicons
-* Icons were used to give the site more character and keep within the theme of cycling. The gear icon associated with the header is the central icon and was made consistent across all pages with the header. On the routes page specific icons were chosen to represent the choice of rides that were available to the user. The social icons chosen were used to give familiarity to the various social platforms. Hover effects were applied to all navigation tabs, social icons and the submit button give the user more awareness.
+#### Icons
+* Icons were used to give the site more character and keep within the theme of cycling. The gear icon associated with the header is the central icon and was made consistent across all pages with the header. On the routes page specific icons were chosen to represent the choice of rides that were available to the user. The social icons chosen were used to give familiarity to the various social platforms. Hover effects were applied to all navigation tabs, social icons and the submit button give the user more awareness. 
 
 #### Maps
 * Satelite maps were used to show the meeting points and to some degree the terrain for the cycle options. The specific meeting points included text showing the address of the meeting point so that it is easier for first time users to identify where to meet and for returning users to either confirm a meeting point or perhaps find new/updated points.
@@ -124,10 +124,13 @@ Bugs and problems were tracked using GitHub issues. Here is a [link](https://git
 ## Credits
 
 ### Content
--The copy used throughout the site was created
+-All copy was made by the author.
+-Procedures on how to make various sections and functions on the page was adapted from the CI learning programme.
+-The icons used for the heading, footer, routes and sign up page was taken from Font Awesome.
+-The icon used on the url tab for the site was applied using Favicon. Here is a [link](https://favicon.io/) 
 
 ### Media
--
+-The images used on the home, routes and sign up page was take from PEXELS.com. Here is a [link](https://www.pexels.com/) 
 
 ## Acknowledgments
 -
