@@ -8,7 +8,7 @@ Sashen_Govender
 ## Project Overview
 Welcome to Tianjin Cycle Meet (TCM) a local cycle initiative aimed to motivate both social and serious cyclists into weekly rides that contribute towards developing a structured cycle routine. TCM is aimed to attract cyclists from all districts across the city and will target users of different abilities. The TCM site was designed to be portal where both new and returning users can find information relating to the details of when and where the next cycle meet would take place. 
 
-The goal for this project was to use html and CSS to create a easy to use site that motivates local cyclists into improving their fitness through the shared 
+The goal for this project was to combine my understanding of html and CSS to create an easy to use site that motivates local cyclists into improving their fitness through group cycle meets.
 
 Click on this link to view the deployed site [Deployed url](https://sashg91.github.io/TCM-Tianjin-Cycle-Meet/)
 
@@ -68,7 +68,7 @@ Click on this link to view the deployed site [Deployed url](https://sashg91.gith
 * The website contains two primary font types 'Bebas Neue' for the header and headings which was then paired with the body text of Roboto using Google Fonts. Here is a [link](https://fonts.google.com/specimen/Raleway) which was used to compare and determine which fonts would compliment each other best for this sort of site. The inclusion of 'sans-serif' was applied as a fall-back font.
 
 #### Images
-* The images for the site were chosen to represent a culture of motivation, inspiration and cycling fitness. The Home page hero image is aimed at providing and immediate sense of group support and shared enjoyment. The routes page chainring image was used mainly to give contrast to this page using an overlay effect. The bike cockpit on the signup page was aimed at depicting the feeling that the user is a step closer to their first organized group cycle.
+* The images for the site were chosen to represent a culture of motivation, inspiration and cycling fitness. The Home page hero image is aimed at providing and immediate sense of group support and shared enjoyment. The routes page chainring image was used mainly to give contrast to this page using an overlay effect. The bike cockpit on the signup page was aimed at depicting the feeling that the user is a step closer to their first organized group cycle. The above images were sourced from Pexels [Pexels](https://www.pexels.com/).
 
 #### Animations
 * Animations were applied to the home and and signup page images with the intention of catching the users attention once landing on the page. The social icons also had a transform effect applied to it, in order to give some character to the icons with the intention of attracting the user.
@@ -123,19 +123,20 @@ The website was original designed to be an easy to use platform. The site follow
 
 
 #### Future Features
-- A gallery page of previous rides
+- A gallery page of previous cycle meets.
 - An online catalogue for TCM Merchandise
-- Link to Strava for group ride tracking.
+- Link to Strava for group ride performance tracking.
 
 ## Testing
 -
 
 ### Validation Testing
 - [CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsashg91.github.io%2FTCM-Tianjin-Cycle-Meet%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
 The CSS is the same for every page so I only validated my index.html page.
 <img width="1315" alt="image" src="https://user-images.githubusercontent.com/97494070/159819475-01166390-459f-4604-93e6-a73912e1ed9c.png">
 
-- [HTML Validator]
+- [HTML Validator] 
 
 ### Cross Browser and Cross Device Testing
 Table area
@@ -160,7 +161,13 @@ Bugs and problems were tracked using GitHub issues. Here is a [link](https://git
 -
 
 ### Lighthouse Audits
-- I ran 
+- I ran a lighthouse audit through [web.dev audit](https://web.dev/) to check the overall performance of the site. Some adjustments needed to be made to improve the results. The following changes were made:
+    - Change in text and overlay colors and 
+    - Reduction in image sizes
+
+Here is an image of the audit results below:
+<img width="715" alt="image" src="https://user-images.githubusercontent.com/97494070/160878328-a5815bea-b632-4088-b4d3-d054bd93a83f.png">
+
 
 ### Keyboard Navigation
 -
@@ -182,20 +189,21 @@ Bugs and problems were tracked using GitHub issues. Here is a [link](https://git
 
 
 ## Credits
+The Code Institute (CI) template was used to complete this project [Full template](https://github.com/Code-Institute-Org/gitpod-full-template) 
 
-### Content
--All copy was made by the author.
+### Code
+- To support the coding learnt through Code Institute online web tutorials from w3Schools was used [w3Schools](https://www.w3schools.com/)
 
--Procedures on how to make various sections and functions (sign up form and routes) on the page was adapted from the CI learning programme.
+### Icons
+- The icons used for the heading, footer, routes and sign up page was taken from [Font Awesome](https://fontawesome.com/v5/search?m=free) 
 
--The Loves Running project was a reference point for funcitionality on this site.
+- The Favicon used on the url tab for the site was applied using Favicon [Favicon](https://favicon.io/).
 
--The icons used for the heading, footer, routes and sign up page was taken from Font Awesome.
+### Images
+-The images used on the sight was from an open source PEXELS.com. [Pexels](https://www.pexels.com/).
 
--The icon used on the url tab for the site was applied using Favicon. Here is a [link](https://favicon.io/) to the page.
-
-### Media
--The images used on the home, routes and sign up page was take from an Open Source site PEXELS.com. Here is a [link](https://www.pexels.com/) to the page.
+### Maps
+- Satellite Maps used for the routes page was extracted from [Google Maps](https://google-map-generator.com/)
 
 ## Acknowledgments
--
+- I would like to thank my mentor Malia Havlicek for detailed and useful project meetings and the suport of the CI tutor team for assiting with problems whilts building this project.
