@@ -135,8 +135,7 @@ The website was original designed to be an easy to use platform. The site follow
 <img width="1315" alt="image" src="https://user-images.githubusercontent.com/97494070/159819475-01166390-459f-4604-93e6-a73912e1ed9c.png">
 
 - [Nu HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsashg91.github.io%2FTCM-Tianjin-Cycle-Meet%2F)
-<img width="1296" alt="image" src="https://user-images.githubusercontent.com/97494070/160890479-814daa4e-bfb3-4eef-b8d5-cd88bcab6eb7.png">
-
+<img width="1308" alt="image" src="https://user-images.githubusercontent.com/97494070/160891284-46e238be-bb4b-40c4-9d6e-a0adffb9fc26.png">
 
 ### Cross Browser and Cross Device Testing
 Table area
@@ -170,7 +169,7 @@ Here is an image of the audit results below:
 
 
 ### Keyboard Navigation
--
+- The site was designed to allow the user to use the tab and arrow keys to navigate the site.
 
 ## Deployment
 1. Go to the settings section of the repository you are trying to deploy. https://github.com/SashG91/TCM-Tianjin-Cycle-Meet/settings
