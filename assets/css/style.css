@@ -9,7 +9,7 @@
 body {
     font-family: Roboto, sans-serif;
     font-weight: 300;
-    color: whitesmoke;
+    color: white;
 }
 
 /* headings and logo */
@@ -27,7 +27,7 @@ h3 {
     font-size: 180%;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: whitesmoke;
+    color: white;
 }
 
 #logo {
@@ -60,11 +60,11 @@ header a {
 }
 
 .active {
-    border-bottom: 2px solid whitesmoke;
+    border-bottom: 2px solid white;
 }
 
 .nav-list a:hover {
-    border-bottom: 2px solid whitesmoke;
+    border-bottom: 2px solid white;
 }
 
 
@@ -95,7 +95,7 @@ footer li {
 }
 
 footer a {
-    color: whitesmoke;
+    color: white;
     justify-content: center;
     align-items: center;
 }
