@@ -29,38 +29,38 @@ Tianjin Cycle Meet (TCM) has the intention to motivate social cyclists into meet
 
 
 #### Colors
--The color palette for the site was inspired by the INEOS Grenadiers British professional cycling team, although the exact colors were not used, a similar pallette of red, blue and white were used from the initial inspiration. Applying opacity on the red or grey overlays to compliment key information such as areas, meeting times and locations. A more distint variation of red was added to the sign up form to make it more present on the page.
+* The color palette for the site was inspired by the INEOS Grenadiers British professional cycling team, although the exact colors were not used, a similar pallette of red, blue and white were used from the initial inspiration. Applying opacity on the red or grey overlays to compliment key information such as areas, meeting times and locations. A more distint variation of red was added to the sign up form to make it more present on the page.
 
 <img width="438" alt="image" src="https://user-images.githubusercontent.com/97494070/160758586-f43a3753-18e9-4ba5-948b-2135eeedbc83.png">
 <img width="438" alt="image" src="https://user-images.githubusercontent.com/97494070/160759038-cf35ce19-f230-4a70-a65d-3c9d154bda39.png">
 
 #### Typography
--The website contains two primary font types being that of 'Bebas Neue' for the header and headings which was then paired with the body text of Roboto using Google Fonts to contrast and determine which fonts would compliment each other. 'Bebas Neue' was used as for the  The inclusion of 'sans-serif' was applied to all font types as a secondary option if needed.
+* The website contains two primary font types being that of 'Bebas Neue' for the header and headings which was then paired with the body text of Roboto using Google Fonts to contrast and determine which fonts would compliment each other. 'Bebas Neue' was used as for the  The inclusion of 'sans-serif' was applied to all font types as a secondary option if needed.
 
 #### Images
--The images used across all three pages were chosen to represent a culture of motivation, inspiration and cycling fitness. The Home page hero image is aimed at providing and immediate sense of group support and shared enjoyment. The routes page chainring image was used mainly to give contrast to this page using an overlay effect. The bike cockpit on the signup page was aimed at depicting the feeling that the user is a step closer to their first organized group cycle.
+* The images used across all three pages were chosen to represent a culture of motivation, inspiration and cycling fitness. The Home page hero image is aimed at providing and immediate sense of group support and shared enjoyment. The routes page chainring image was used mainly to give contrast to this page using an overlay effect. The bike cockpit on the signup page was aimed at depicting the feeling that the user is a step closer to their first organized group cycle.
 
 #### Animations
--Animations were applied to the home and and signup page images with the intention of catching the users attention once landing on the page. The social icons also had a transform effect applied to it, in order to give some character to the icons with the intention of attracting the user.
+* Animations were applied to the home and and signup page images with the intention of catching the users attention once landing on the page. The social icons also had a transform effect applied to it, in order to give some character to the icons with the intention of attracting the user.
 
 #### Icons & Favicons
--Icons were used to give the site more character and keep within the theme of cycling. The gear icon associated with the header is the central icon and was made consistent across all pages with the header. On the routes page specific icons were chosen to represent the choice of rides that were available to the user. The social icons chosen were used to give familiarity to the various social platforms.
+* Icons were used to give the site more character and keep within the theme of cycling. The gear icon associated with the header is the central icon and was made consistent across all pages with the header. On the routes page specific icons were chosen to represent the choice of rides that were available to the user. The social icons chosen were used to give familiarity to the various social platforms.
 
 #### Maps
--Satelite maps were used to show the meeting points and to some degree the terrain for the cycle options. The specific meeting points included text showing the address of the meeting point so that it is easier for first time users to identify where to meet and for returning users to either confirm a meeting point or perhaps find new/updated points.
+* Satelite maps were used to show the meeting points and to some degree the terrain for the cycle options. The specific meeting points included text showing the address of the meeting point so that it is easier for first time users to identify where to meet and for returning users to either confirm a meeting point or perhaps find new/updated points.
 
 ### Wireframes
--
+* 
 
 ### Features
+
 #### Existing Features
--Navigation Bar
--Club Details
--Footer
 
--Routes
-
--Signup page
+##### Navigation Bar
+##### Club Details
+##### Footer
+##### Routes
+##### Signup page
 
 
 
