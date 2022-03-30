@@ -30,6 +30,7 @@ Tianjin Cycle Meet (TCM) has the intention to motivate social cyclists into meet
 
 #### Colors
 -The color palette for the site was inspired by the INEOS Grenadiers British professional cycling team, although the exact colors were not used, a similar pallette of red, blue and white were used from the initial inspiration. Applying opacity on the red or grey overlays to compliment key information such as areas, meeting times and locations. A more distint variation of red was added to the sign up form to make it more present on the page.
+
 <img width="438" alt="image" src="https://user-images.githubusercontent.com/97494070/160758586-f43a3753-18e9-4ba5-948b-2135eeedbc83.png">
 <img width="438" alt="image" src="https://user-images.githubusercontent.com/97494070/160759038-cf35ce19-f230-4a70-a65d-3c9d154bda39.png">
 
