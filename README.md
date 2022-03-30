@@ -36,6 +36,7 @@ Tianjin Cycle Meet (TCM) has the intention to motivate social cyclists into meet
 
 #### Typography
 * The website contains two primary font types being that of 'Bebas Neue' for the header and headings which was then paired with the body text of Roboto using Google Fonts to contrast and determine which fonts would compliment each other. 'Bebas Neue' was used as for the  The inclusion of 'sans-serif' was applied to all font types as a secondary option if needed.
+[link](https://fonts.google.com/specimen/Raleway).
 
 #### Images
 * The images used across all three pages were chosen to represent a culture of motivation, inspiration and cycling fitness. The Home page hero image is aimed at providing and immediate sense of group support and shared enjoyment. The routes page chainring image was used mainly to give contrast to this page using an overlay effect. The bike cockpit on the signup page was aimed at depicting the feeling that the user is a step closer to their first organized group cycle.
