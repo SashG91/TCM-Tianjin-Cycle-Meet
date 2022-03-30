@@ -1,24 +1,52 @@
 # Tianjin Cycle Meet
 
+## User-Centric Frontend Development Milestone Project
+
 ## Author
 Sashen_Govender
 
 ## Project Overview
-Tianjin Cycle Meet (TCM) has the intention to motivate social cyclists into meeting weekly to help in developing a structured cycle routine. It will attract cyclists from all districts across the city and will target both hobby and serious cyclists to support their training needs. The TCM site will be valuable to cyclists to see the details of when and where they need to meet to join the group rides.
+Welcome to Tianjin Cycle Meet (TCM) a local cycle initiative aimed to motivate both social and serious cyclists into weekly rides that contribute towards developing a structured cycle routine. TCM is aimed to attract cyclists from all districts across the city and will target users of different abilities. The TCM site was designed to be portal where both new and returning users can find information relating to the details of when and where the next cycle meet would take place. 
+
+The goal for this project was to use html and CSS to create a easy to use site that motivates local cyclists into improving their fitness through the shared 
 
 [Deployed url](https://sashg91.github.io/TCM-Tianjin-Cycle-Meet/)
 
+<img width="977" alt="Screenshot 2022-03-30 at 22 18 12" src="https://user-images.githubusercontent.com/97494070/160858329-5fd90da6-b88e-47eb-9748-f157a058a106.png">
+
+## User Stories
+
+### New visitor
+- I want to find out more about Tianjin Cycle Meet.
+- I want to establish if the routes and structure will work for me.
+- I want to contact the organizers as I have some related training questions.
+
+### Returning visitor
+- I want to see if the new routes have been announced.
+- I want to speak to someone about hosting an event or make suggestions for the meet.
+- I want to Sign up for another cycle meet or cycle option.
+
+### Frequent visitor
+- I want to sign up for another cycle meet.
+- I want to check if new routes have been updated.
+- Speak to someone about suggestions or have specific questions based on my previous involvments.
+
+## User Profiles
+1. Andrew
+- Is a new local resident in Tianjin and has just taken on cycling as a hobby, he is unsure about his abilities having done a few rides on his own and worries about his confidence alone on the road, the idea of joining one of TCMs organized group rides offers him the support he needs.
+
+2. Lisa
+- Is an experienced road cyclist who has competed at a few events. She has her regular training routes, but would like to meet some new people and try out routes that she has never done before.
 
 
 ## Table of Contents
-
 
 ## UX
 
 ### Project Goals
 * The project is aimed at providing a convenient and seamless way for cyclists to join an organized training ride in Tianjin, China.
 
-* It is aimed at targetting both hobby and serious cyclists who need some structure to their weekly training or for those who have fears of riding alone and maybe find it difficult to plan a productive training session.
+* It is aimed at targetting both social and serious cyclists who need some structure to their weekly training or for those who have fears of riding alone and maybe find it difficult to plan a productive training session.
 
 * The site will also be updated on a monthly basis to offer users different location choices around the city.
 
@@ -29,13 +57,17 @@ Tianjin Cycle Meet (TCM) has the intention to motivate social cyclists into meet
 
 
 #### Colors
-* The color palette for the site was inspired by the INEOS Grenadiers British professional cycling team, although the exact colors were not used, a similar pallette of red, blue and white were used from the initial inspiration. Applying opacity on the red or grey overlays to compliment key information such as areas, meeting times and locations. A more distint variation of red was added to the sign up form to make it more present on the page.
+* The color palette for the site was inspired by the INEOS Grenadiers British professional cycling team, although the exact colors were not used, a similar pallette of red, blue and white (#FAFAFA) were used from the initial inspiration. Applying opacity on the red or grey overlays to compliment key information such as areas, meeting times and locations. A more distint variation of red was added to the sign up form to make it more present on the page. Coolors.co was used to generate the palette as seen in the image below.
 
-<img width="438" alt="image" src="https://user-images.githubusercontent.com/97494070/160758586-f43a3753-18e9-4ba5-948b-2135eeedbc83.png">
-<img width="438" alt="image" src="https://user-images.githubusercontent.com/97494070/160759038-cf35ce19-f230-4a70-a65d-3c9d154bda39.png">
+- red (#b61614)
+- blue (#0074d0)
+- White (#FAFAFA)
+
+![Tianjin_Cycle_Meet_Color Palette](https://user-images.githubusercontent.com/97494070/160862576-673a0c16-ddeb-4a66-a820-e3dedef86145.png)
+
 
 #### Typography
-* The website contains two primary font types being that of 'Bebas Neue' for the header and headings which was then paired with the body text of Roboto using Google Fonts. Here is a [link](https://fonts.google.com/specimen/Raleway) to contrast and determine which fonts would compliment each other. 'Bebas Neue' was used as for the  The inclusion of 'sans-serif' was applied to all font types as a secondary option if needed.
+* The website contains two primary font types 'Bebas Neue' for the header and headings which was then paired with the body text of Roboto using Google Fonts. Here is a [link](https://fonts.google.com/specimen/Raleway) which was used to compare and determine which fonts would compliment each other best for this sort of site. The inclusion of 'sans-serif' was applied as a fall-back font.
 
 #### Images
 * The images for the site were chosen to represent a culture of motivation, inspiration and cycling fitness. The Home page hero image is aimed at providing and immediate sense of group support and shared enjoyment. The routes page chainring image was used mainly to give contrast to this page using an overlay effect. The bike cockpit on the signup page was aimed at depicting the feeling that the user is a step closer to their first organized group cycle.
@@ -60,8 +92,10 @@ Initial designs for the site were created using Balsamiq, the completed project 
 #### Desktop
 <img width="783" alt="image" src="https://user-images.githubusercontent.com/97494070/160792242-b06eca2a-124a-4a87-b571-218611a42f4f.png">
 
+## Website Structure
+The website was original designed to be an easy to use platform. The site follows a simple structure and consists of 3 pages. It was initially designed for mobile use with responsiveness being applied to account for both tablet and desktop usage. No compromise was made in terms ofvsharing the same experience across all devices. User interest and comfort was carried through the entire site, the use of animated images to catch the eye and hover effects on pages and buttons to ensure ease of use at any point on the site.
 
-### Features
+## Features
 
 #### Existing Features
 
