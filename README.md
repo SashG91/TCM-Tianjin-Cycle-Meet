@@ -1,6 +1,6 @@
 # Tianjin Cycle Meet
 
-## User-Centric Frontend Development Milestone Project
+## A User-Centric Frontend Development Milestone Project
 
 ## Author
 Sashen_Govender
@@ -98,15 +98,34 @@ The website was original designed to be an easy to use platform. The site follow
 #### Existing Features
 
 ##### Header
+- 
+<img width="459" alt="image" src="https://user-images.githubusercontent.com/97494070/160874680-a4f0ad29-60c9-452b-9865-d1a3eab7a4f6.png">
+
 ##### Navigation Bar
+- 
+<img width="329" alt="image" src="https://user-images.githubusercontent.com/97494070/160874828-f24b113f-4718-452d-92d8-6a4ddc21a8bb.png">
+
 ##### Club Details
+
+<img width="1269" alt="image" src="https://user-images.githubusercontent.com/97494070/160875173-7018ea3b-5d04-4df0-bfc3-278fa4317191.png">
+
 ##### Routes
+- 
+<img width="1370" alt="image" src="https://user-images.githubusercontent.com/97494070/160875801-0a91ba5b-f88f-45fd-b378-de0ce4f93b77.png">
+
 ##### Signup page
+- 
+<img width="1373" alt="image" src="https://user-images.githubusercontent.com/97494070/160875528-84ce1628-f437-4a24-94b1-432273ba246a.png">
+
 ##### Footer
+- 
+<img width="1283" alt="image" src="https://user-images.githubusercontent.com/97494070/160875366-fcb8cc39-df4a-48dc-856c-e1a67ca5600a.png">
+
 
 #### Future Features
--
-
+- A gallery page of previous rides
+- An online catalogue for TCM Merchandise
+- Link to Strava for group ride tracking.
 
 ## Testing
 -
@@ -141,7 +160,7 @@ Bugs and problems were tracked using GitHub issues. Here is a [link](https://git
 -
 
 ### Lighthouse Audits
--
+- I ran 
 
 ### Keyboard Navigation
 -
