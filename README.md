@@ -50,7 +50,16 @@ Tianjin Cycle Meet (TCM) has the intention to motivate social cyclists into meet
 * Satelite maps were used to show the meeting points and to some degree the terrain for the cycle options. The specific meeting points included text showing the address of the meeting point so that it is easier for first time users to identify where to meet and for returning users to either confirm a meeting point or perhaps find new/updated points.
 
 ### Wireframes
-* 
+Initial designs for the site were created using Balsamiq, the completed project is very closely designed to match the wireframes provided below for mobile, table and desktop. Some adjustments were made to the location of text, buttons and sections when compared to the completed project.
+#### Mobile
+<img width="723" alt="image" src="https://user-images.githubusercontent.com/97494070/160791222-6a708558-e188-49c1-bd82-4875942bfa06.png">
+
+#### Tablet
+<img width="754" alt="image" src="https://user-images.githubusercontent.com/97494070/160792064-59bbb6b4-8487-4c99-8cb9-164d16c4c2d1.png">
+
+#### Desktop
+<img width="783" alt="image" src="https://user-images.githubusercontent.com/97494070/160792242-b06eca2a-124a-4a87-b571-218611a42f4f.png">
+
 
 ### Features
 
@@ -125,12 +134,17 @@ Bugs and problems were tracked using GitHub issues. Here is a [link](https://git
 
 ### Content
 -All copy was made by the author.
--Procedures on how to make various sections and functions on the page was adapted from the CI learning programme.
+
+-Procedures on how to make various sections and functions (sign up form and routes) on the page was adapted from the CI learning programme.
+
+-The Loves Running project was a reference point for funcitionality on this site.
+
 -The icons used for the heading, footer, routes and sign up page was taken from Font Awesome.
--The icon used on the url tab for the site was applied using Favicon. Here is a [link](https://favicon.io/) 
+
+-The icon used on the url tab for the site was applied using Favicon. Here is a [link](https://favicon.io/) to the page.
 
 ### Media
--The images used on the home, routes and sign up page was take from PEXELS.com. Here is a [link](https://www.pexels.com/) 
+-The images used on the home, routes and sign up page was take from an Open Source site PEXELS.com. Here is a [link](https://www.pexels.com/) to the page.
 
 ## Acknowledgments
 -
