@@ -161,7 +161,7 @@ The website was original designed to be an easy to use platform. The site follow
 - Table area
 
 ### Manual Testing
--
+- You can view manual testing results [here](https://docs.google.com/spreadsheets/d/1_lIjU79irAh2A_BxTXAEjpxL3J0hhV_Q/edit?usp=sharing&ouid=116957584173833035665&rtpof=true&sd=true)
 
 **Manual Testing For Signup Form**
 
