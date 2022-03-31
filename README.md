@@ -237,20 +237,20 @@ The website was original designed to be an easy to use platform. The site follow
 ### Testing User Stories form User Experience section
 
 ### New visitor
-- I want to find out more about Tianjin Cycle Meet and whether the routes/structure work for me and would like to speak to someone.
-  a. The new visitor is greeted with a clear logo and navigation bar that shows the home, routes and sign up pages.
-  b. The new visitor is able to get a feel of the initiative from the hero image and the club details.
-  c. The new visitor will see a bold Questions? Contact Us! banner.
+1. I want to find out more about Tianjin Cycle Meet and whether the routes/structure work for me and would like to speak to someone.
+  - The new visitor is greeted with a clear logo and navigation bar that shows the home, routes and sign up pages.
+  - The new visitor is able to get a feel of the initiative from the hero image and the club details.
+  - The new visitor will see a bold Questions? Contact Us! banner.
 
 ### Returning visitor
-- I want to see if the new routes have been announced, speak to an organizer and sign up for the next ride.
-  a. The returning visitor will be able to see the routes tab clearly on the navigation bar.
-  b. The returning visitor will see a bold Questions? Contact Us! banner.
+2. I want to see if the new routes have been announced, speak to an organizer and sign up for the next ride.
+  - The returning visitor will be able to see the routes tab clearly on the navigation bar.
+  - The returning visitor will see a bold Questions? Contact Us! banner.
 
 ### Frequent visitor
-- I want to sign up for another cycle meet, check the new routes and speak to someone.
-  a. The frequent visitor will be able to click the routes tab on the navigation bar to check the new routes.
-  b. The frequent visitor will see a bold Questions? Contact Us! banner.
+3. I want to sign up for another cycle meet, check the new routes and speak to someone.
+  - The frequent visitor will be able to click the routes tab on the navigation bar to check the new routes.
+  - The frequent visitor will see a bold Questions? Contact Us! banner.
 
 ### Manual Testing
 - You can view manual testing results [here](https://docs.google.com/spreadsheets/d/1_lIjU79irAh2A_BxTXAEjpxL3J0hhV_Q/edit?usp=sharing&ouid=116957584173833035665&rtpof=true&sd=true)
