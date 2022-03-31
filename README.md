@@ -106,7 +106,7 @@ The website was original designed to be an easy to use platform. The site follow
 <img width="329" alt="image" src="https://user-images.githubusercontent.com/97494070/160874828-f24b113f-4718-452d-92d8-6a4ddc21a8bb.png">
 
 ##### Club Details
-
+- 
 <img width="1269" alt="image" src="https://user-images.githubusercontent.com/97494070/160875173-7018ea3b-5d04-4df0-bfc3-278fa4317191.png">
 
 ##### Routes
@@ -164,6 +164,7 @@ Bugs and problems were tracked using GitHub issues. Here is a [link](https://git
     - A reduction in image sizes.
 
 Below is an image of the audit results:
+
 <img width="715" alt="image" src="https://user-images.githubusercontent.com/97494070/160878328-a5815bea-b632-4088-b4d3-d054bd93a83f.png">
 
 ### Keyboard Navigation
