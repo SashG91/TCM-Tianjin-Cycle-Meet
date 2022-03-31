@@ -190,15 +190,15 @@ Below is an image of the audit results:
 The Code Institute (CI) template was used to complete this project as linked here [Full template](https://github.com/Code-Institute-Org/gitpod-full-template) 
 
 ### Code
-- To support the coding learnt through Code Institute online web tutorials from w3Schools was used [w3Schools](https://www.w3schools.com/)
+- To support the coding studied through Code Institute, online web tutorials from w3Schools were also referred to [w3Schools](https://www.w3schools.com/)
 
 ### Icons
-- The icons used for the heading, footer, routes and sign up page was taken from [Font Awesome](https://fontawesome.com/v5/search?m=free) 
+- The icons used for the heading, footer, routes and sign up page were taken from [Font Awesome](https://fontawesome.com/v5/search?m=free) 
 
 - The Favicon used on the url tab for the site was applied using Favicon [Favicon](https://favicon.io/).
 
 ### Images
-- The images used on the sight was from an open source PEXELS.com. [Pexels](https://www.pexels.com/).
+- The images used on the sight was from an open source PEXELS.com [Pexels](https://www.pexels.com/).
 
 ### Maps
 - Satellite Maps used for the routes page was extracted from [Google Maps](https://google-map-generator.com/)
