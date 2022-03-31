@@ -15,6 +15,59 @@ Click on this link to view the deployed site [Deployed url](https://sashg91.gith
 <img width="977" alt="Screenshot 2022-03-30 at 22 18 12" src="https://user-images.githubusercontent.com/97494070/160858329-5fd90da6-b88e-47eb-9748-f157a058a106.png">
 
 ## Table of Contents
+- [Tianjin Cycle Meet](#tianjin-cycle-meet)
+  * [A User-Centric Frontend Development Milestone Project](#a-user-centric-frontend-development-milestone-project)
+  * [Author](#author)
+  * [Project Overview](#project-overview)
+  * [Table of Contents](#table-of-contents)
+  * [User Stories](#user-stories)
+    + [New visitor](#new-visitor)
+    + [Returning visitor](#returning-visitor)
+    + [Frequent visitor](#frequent-visitor)
+  * [User Profiles](#user-profiles)
+    + [Andy](#andy)
+    + [Serena](#serena)
+  * [UX](#ux)
+    + [Project Goals](#project-goals)
+    + [Design Choices](#design-choices)
+      - [Colors](#colors)
+      - [Typography](#typography)
+      - [Images](#images)
+      - [Animations](#animations)
+      - [Icons](#icons)
+      - [Maps](#maps)
+    + [Wireframes](#wireframes)
+      - [Mobile](#mobile)
+      - [Tablet](#tablet)
+      - [Desktop](#desktop)
+  * [Website Structure](#website-structure)
+  * [Features](#features)
+      - [Existing Features](#existing-features)
+        * [Navigation Bar](#navigation-bar)
+        * [Hero Image](#hero-image)
+        * [Club Details](#club-details)
+        * [Routes](#routes)
+        * [Signup page](#signup-page)
+        * [Footer](#footer)
+        * [Error 404 page](#error-404-page)
+      - [Future Features](#future-features)
+  * [Testing](#testing)
+    + [Validation Testing](#validation-testing)
+    + [Cross Browser and Cross Device Testing](#cross-browser-and-cross-device-testing)
+    + [Manual Testing](#manual-testing)
+    + [Defect Tracking](#defect-tracking)
+    + [Defects of Note](#defects-of-note)
+    + [Outstanding Defects](#outstanding-defects)
+  * [Accessibility](#accessibility)
+    + [Lighthouse Audits](#lighthouse-audits)
+    + [Keyboard Navigation](#keyboard-navigation)
+  * [Deployment](#deployment)
+  * [Credits](#credits)
+    + [Code](#code)
+    + [Icons](#icons-1)
+    + [Images](#images-1)
+    + [Maps](#maps-1)
+  * [Acknowledgments](#acknowledgments)
 
 ## User Stories
 
@@ -173,15 +226,13 @@ The website was original designed to be an easy to use platform. The site follow
 ### Manual Testing
 - You can view manual testing results [here](https://docs.google.com/spreadsheets/d/1_lIjU79irAh2A_BxTXAEjpxL3J0hhV_Q/edit?usp=sharing&ouid=116957584173833035665&rtpof=true&sd=true)
 
-**Manual Testing For Signup Form**
-
-
 ### Defect Tracking
 Bugs and problems were tracked using GitHub issues. Here is a [link](https://github.com/SashG91/TCM-Tianjin-Cycle-Meet/issues) for this project
 
-
 ### Defects of Note
--
+- Cover overlay: cover text was not displaying correctly across devices. Had to adjust padding and height by adding media queries for 320px.
+- Responsiveness: site was not adjusting across screensizes, implemented media queries for large and small screens.
+- Hero image appearing stretched, added height:auto.
 
 ### Outstanding Defects
 - No outstanding defects at this point. All noticeable defects identified, reported and closed.
@@ -236,3 +287,5 @@ The Code Institute (CI) template was used to complete this project as linked her
 
 ## Acknowledgments
 - I would like to thank my mentor Malia Havlicek for facilitating both detailed and useful project meetings and the suport of the CI tutor team for assiting with overcoming challenges during this project.
+
+[Table of Contents](#table-of-contents)
