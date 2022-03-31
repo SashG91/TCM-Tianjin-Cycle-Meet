@@ -99,7 +99,7 @@ The website was original designed to be an easy to use platform. The site follow
 
 ##### Navigation Bar
 - 
-
+<img width="1363" alt="image" src="https://user-images.githubusercontent.com/97494070/160969382-3f897975-8cbb-4677-b2ad-80ef9b86b74c.png">
 
 ##### Club Details
 - 
