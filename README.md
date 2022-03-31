@@ -97,13 +97,9 @@ The website was original designed to be an easy to use platform. The site follow
 
 #### Existing Features
 
-#####  Header
-      - 
-<img width="459" alt="image" src="https://user-images.githubusercontent.com/97494070/160874680-a4f0ad29-60c9-452b-9865-d1a3eab7a4f6.png">
-
 ##### Navigation Bar
 - 
-<img width="329" alt="image" src="https://user-images.githubusercontent.com/97494070/160874828-f24b113f-4718-452d-92d8-6a4ddc21a8bb.png">
+
 
 ##### Club Details
 - 
