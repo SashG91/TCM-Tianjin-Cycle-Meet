@@ -93,7 +93,7 @@ Click on this link to view the deployed site [Deployed url](https://sashg91.gith
 ### Serena
 - Is an experienced road cyclist who has competed at a few events. She has her regular training routes, but would like to meet some new people, try a new route and join a group that is equally driven to improve their cycling fitness.
 
-## UX
+## User Experience (UX)
 
 ### Project Goals
 * The project is aimed at providing a convenient and seamless way for cyclists to join an organized training ride in Tianjin, China.
@@ -223,6 +223,24 @@ The website was original designed to be an easy to use platform. The site follow
 | real computer: Macbook Pro     | Chrome      | iOs        | 1400 x 766       |
 | real tablet: iPad 11 Pro       | Chrome      | iOs        | 1024 x 1366      |
 
+### Testing User Stories form User Experience section
+
+### New visitor
+- I want to find out more about Tianjin Cycle Meet and whether the routes/structure work for me and would like to speak to someone.
+  a. The new visitor is greeted with a clear logo and navigation bar that shows the home, routes and sign up pages.
+  b. The new visitor is able to get a feel of the initiative from the hero image and the club details.
+  c. The new visitor will see a bold Questions? Contact Us! banner.
+
+### Returning visitor
+- I want to see if the new routes have been announced, speak to an organizer and sign up for the next ride.
+  a. The returning visitor will be able to see the routes tab clearly on the navigation bar.
+  b. The returning visitor will see a bold Questions? Contact Us! banner.
+
+### Frequent visitor
+- I want to sign up for another cycle meet, check the new routes and speak to someone.
+  a. The frequent visitor will be able to click the routes tab on the navigation bar to check the new routes.
+  b. The frequent visitor will see a bold Questions? Contact Us! banner.
+
 ### Manual Testing
 - You can view manual testing results [here](https://docs.google.com/spreadsheets/d/1_lIjU79irAh2A_BxTXAEjpxL3J0hhV_Q/edit?usp=sharing&ouid=116957584173833035665&rtpof=true&sd=true)
 
@@ -284,6 +302,16 @@ The Code Institute (CI) template was used to complete this project as linked her
 
 ### Maps
 - Satellite Maps used for the routes page was extracted from [Google Maps](https://google-map-generator.com/)
+
+## Technologies Used
+ ### Git hub
+ ### Git Pod
+ ### Balsamiq
+ 
+ ## Languages used
+ ### HTML5
+ ### CSS
+ 
 
 ## Acknowledgments
 - I would like to thank my mentor Malia Havlicek for facilitating both detailed and useful project meetings and the suport of the CI tutor team for assiting with overcoming challenges during this project.
