@@ -117,6 +117,9 @@ The website was original designed to be an easy to use platform. The site follow
 - 
 <img width="1283" alt="image" src="https://user-images.githubusercontent.com/97494070/160875366-fcb8cc39-df4a-48dc-856c-e1a67ca5600a.png">
 
+##### Footer
+-
+
 
 #### Future Features
 - A gallery page showing images taken during previous cycle meets.
