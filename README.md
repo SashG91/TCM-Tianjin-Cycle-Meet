@@ -98,28 +98,46 @@ The website was original designed to be an easy to use platform. The site follow
 #### Existing Features
 
 ##### Navigation Bar
-- 
+- Is visible on all three pages of the site. It is fully responsive and allows the user to navigate the site with ease.
+- The navigation bar is consistent across all three pages to give the user a sense of familiarity.
+- The navigation tabs are designed to allow the user to move from page to page without having to go back and forth by using the back button.
+
 <img width="1363" alt="image" src="https://user-images.githubusercontent.com/97494070/160969382-3f897975-8cbb-4677-b2ad-80ef9b86b74c.png">
 
+##### Hero Image
+- Is a focus image that includes an overlay of text that shows the user the districts that the cycle meet covers.
+- The image is specific in that it shows exactly what sort of environemnt TCM would like to create.
+
+<img width="1372" alt="image" src="https://user-images.githubusercontent.com/97494070/160971776-fc2bdf1c-70ca-4175-9547-1001a90be91c.png">
+
 ##### Club Details
-- 
+- The club details section is aimed at coveying the reason behind the TCM model.
+- The user will be able to determine whether TCM is the best option for them as it offers options for both social and serious cyclist.
 <img width="1269" alt="image" src="https://user-images.githubusercontent.com/97494070/160875173-7018ea3b-5d04-4df0-bfc3-278fa4317191.png">
 
 ##### Routes
-- 
+- The routes tab provides the user with three route options and outlines the meeting locations, days and times for the grouped rides. The user is given basic information and a map reference for the meeting point.
+- The routes tab is considered a dynamic section in that it will be upated at most on a monthly basis to offer more routes to the user.
+
 <img width="1370" alt="image" src="https://user-images.githubusercontent.com/97494070/160875801-0a91ba5b-f88f-45fd-b378-de0ce4f93b77.png">
 
 ##### Signup page
-- 
+- The sign up page is a short form that allows the user sign up to join a group cycle at TCM.
+- The sign up form requires the user to provide their name, email and select their type of cycle interest (Flat, Climbs or Both).
+- Upon clicking the "You're good to go!" submi button the user will be taken to a new page which shows a generic success message as used in CI.
+-
 <img width="1373" alt="image" src="https://user-images.githubusercontent.com/97494070/160875528-84ce1628-f437-4a24-94b1-432273ba246a.png">
 
 ##### Footer
-- 
+- The footer is consistent across the entire site and contains the social links related to the TCM initiative.
+- It contains a section that asks if the user has questions and if they do a central email address is provided.
+- The links have been created so that the user is taken to a new tab once clicked so as to prevent them from leaving the main page.
+- The footer is aimed to encourage users on social media in hopes of generating more attraction to TCM and for alternative means of communication.
+
 <img width="1283" alt="image" src="https://user-images.githubusercontent.com/97494070/160875366-fcb8cc39-df4a-48dc-856c-e1a67ca5600a.png">
 
-##### Footer
--
-
+##### Error 404 page
+- 
 
 #### Future Features
 - A gallery page showing images taken during previous cycle meets.
@@ -136,7 +154,7 @@ The website was original designed to be an easy to use platform. The site follow
 <img width="1308" alt="image" src="https://user-images.githubusercontent.com/97494070/160891284-46e238be-bb4b-40c4-9d6e-a0adffb9fc26.png">
 
 ### Cross Browser and Cross Device Testing
-Table area
+- Table area
 
 ### Manual Testing
 -
