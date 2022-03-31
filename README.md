@@ -174,7 +174,7 @@ Bugs and problems were tracked using GitHub issues. Here is a [link](https://git
 -
 
 ### Outstanding Defects
--
+- No outstanding defects at this point. All noticeable defects identified, reported and closed.
 
 ## Accessibility
 
