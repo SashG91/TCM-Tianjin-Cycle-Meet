@@ -12,7 +12,7 @@ The goal for this project was to combine my understanding of html and CSS to cre
 
 Click on this link to view the deployed site [Deployed url](https://sashg91.github.io/TCM-Tianjin-Cycle-Meet/)
 
-<img width="977" alt="Screenshot 2022-03-30 at 22 18 12" src="https://user-images.githubusercontent.com/97494070/160858329-5fd90da6-b88e-47eb-9748-f157a058a106.png">
+<img width="1036" alt="image" src="https://user-images.githubusercontent.com/97494070/161070332-cd37983c-7b79-42ff-ad73-1fcdcc497d21.png">
 
 ## Table of Contents
 - [Tianjin Cycle Meet](#tianjin-cycle-meet)
