@@ -38,7 +38,7 @@ Click on this link to view the deployed site [Deployed url](https://sashg91.gith
 - Is a new local resident in Tianjin and has just taken on cycling as a hobby, he is unsure about his abilities having done a few rides on his own and worries about his confidence alone on the road, the idea of joining one of TCMs organized group rides offers him the support he needs.
 
 ### Serena
-- Is an experienced road cyclist who has competed at a few events. She has her regular training routes, but would like to meet some new people and try out routes that she has never done before.
+- Is an experienced road cyclist who has competed at a few events. She has her regular training routes, but would like to meet some new people, try a new route and join a group that is equally driven to improve their cycling fitness.
 
 ## UX
 
@@ -97,8 +97,8 @@ The website was original designed to be an easy to use platform. The site follow
 
 #### Existing Features
 
-##### Header
-- 
+#####  Header
+      - 
 <img width="459" alt="image" src="https://user-images.githubusercontent.com/97494070/160874680-a4f0ad29-60c9-452b-9865-d1a3eab7a4f6.png">
 
 ##### Navigation Bar
