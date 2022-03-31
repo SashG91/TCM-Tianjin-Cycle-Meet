@@ -158,7 +158,17 @@ The website was original designed to be an easy to use platform. The site follow
 <img width="1308" alt="image" src="https://user-images.githubusercontent.com/97494070/160891284-46e238be-bb4b-40c4-9d6e-a0adffb9fc26.png">
 
 ### Cross Browser and Cross Device Testing
-- Table area
+- Below is a table showing cross device testing.
+
+|                                | **BROWSER** | **OS**     | **SCREEN-WIDTH** |
+|--------------------------------|-------------|------------|------------------|
+| dev tools: iPhone SE/5         | Chrome      | iOs        | 375 x 667        |
+| dev tools: Pixel 5             | Chrome      | android    | 393 x 581        |
+| browserstack: Windows 11       | Firefox     | Windows 11 | 1376 x 763       |
+| browserstack: Galaxy S21 Ultra | Chrome      | android    | 360 x 800        |
+| real phone: iPhone XR          | Safari      | iOs        | 414 x 896        |
+| real computer: Macbook Pro     | Chrome      | iOs        | 1400 x 766       |
+| real tablet: iPad 11 Pro       | Chrome      | iOs        | 1024 x 1366      |
 
 ### Manual Testing
 - You can view manual testing results [here](https://docs.google.com/spreadsheets/d/1_lIjU79irAh2A_BxTXAEjpxL3J0hhV_Q/edit?usp=sharing&ouid=116957584173833035665&rtpof=true&sd=true)
