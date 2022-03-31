@@ -38,7 +38,7 @@ Click on this link to view the deployed site [Deployed url](https://sashg91.gith
 - Is a new local resident in Tianjin and has just taken on cycling as a hobby, he is unsure about his abilities having done a few rides on his own and worries about his confidence alone on the road, the idea of joining one of TCMs organized group rides offers him the support he needs.
 
 ### Serena
-- Is an experienced road cyclist who has competed at a few events. She has her regular training routes, but would like to meet some new people and try out routes that she has never done before.
+- Is an experienced road cyclist who has competed at a few events. She has her regular training routes, but would like to meet some new people, try a new route and join a group that is equally driven to improve their cycling fitness.
 
 ## UX
 
@@ -56,7 +56,7 @@ Click on this link to view the deployed site [Deployed url](https://sashg91.gith
 
 
 #### Colors
-* The color palette for the site was inspired by the INEOS Grenadiers British professional cycling team, although the exact colors were not used, a similar pallette of red, blue and white (#FAFAFA) were used from the initial inspiration. Applying opacity on the red or grey overlays to compliment key information such as areas, meeting times and locations. A more distint variation of red was added to the sign up form to make it more present on the page. Coolors.co was used to generate the palette as seen in the image below.
+* The color palette for the site was inspired by the INEOS Grenadiers British professional cycling team, although the exact colors were not used, a similar pallette of red, blue and white were used from the initial inspiration. Applying opacity on the red or grey overlays to compliment key information such as areas, meeting times and locations. A more distint variation of red was added to the sign up form to make it more present on the page. Coolors.co was used to generate the palette as seen in the image below.
 
 - red (#b61614)
 - blue (#0074d0)
@@ -97,16 +97,12 @@ The website was original designed to be an easy to use platform. The site follow
 
 #### Existing Features
 
-##### Header
-- 
-<img width="459" alt="image" src="https://user-images.githubusercontent.com/97494070/160874680-a4f0ad29-60c9-452b-9865-d1a3eab7a4f6.png">
-
 ##### Navigation Bar
 - 
-<img width="329" alt="image" src="https://user-images.githubusercontent.com/97494070/160874828-f24b113f-4718-452d-92d8-6a4ddc21a8bb.png">
+<img width="1363" alt="image" src="https://user-images.githubusercontent.com/97494070/160969382-3f897975-8cbb-4677-b2ad-80ef9b86b74c.png">
 
 ##### Club Details
-
+- 
 <img width="1269" alt="image" src="https://user-images.githubusercontent.com/97494070/160875173-7018ea3b-5d04-4df0-bfc3-278fa4317191.png">
 
 ##### Routes
@@ -121,14 +117,16 @@ The website was original designed to be an easy to use platform. The site follow
 - 
 <img width="1283" alt="image" src="https://user-images.githubusercontent.com/97494070/160875366-fcb8cc39-df4a-48dc-856c-e1a67ca5600a.png">
 
+##### Footer
+-
+
 
 #### Future Features
-- A gallery page of previous cycle meets.
-- An online catalogue for TCM Merchandise
+- A gallery page showing images taken during previous cycle meets.
+- An online catalogue for TCM Merchandise.
 - Link to Strava for group ride performance tracking.
 
 ## Testing
--
 
 ### Validation Testing
 - [CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsashg91.github.io%2FTCM-Tianjin-Cycle-Meet%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
@@ -157,19 +155,19 @@ Bugs and problems were tracked using GitHub issues. Here is a [link](https://git
 -
 
 ## Accessibility
--
 
 ### Lighthouse Audits
 - I ran a lighthouse audit through [web.dev audit](https://web.dev/) to check the overall performance of the site. Some adjustments needed to be made to improve the results. The following changes were made:
-    - Change in text and overlay colors and 
-    - Reduction in image sizes
+    - Change in text and overlay and footer colors (Whitesmoke to white) 
+    - Alignment of Club Details content to centre (accommodate for wide-screen) and 
+    - A reduction in image sizes.
 
-Here is an image of the audit results below:
+Below is an image of the audit results:
+
 <img width="715" alt="image" src="https://user-images.githubusercontent.com/97494070/160878328-a5815bea-b632-4088-b4d3-d054bd93a83f.png">
 
-
 ### Keyboard Navigation
-- The site was designed to allow the user to use the tab and arrow keys to navigate the site.
+- The site was designed to allow a user to navigate the site using the tab and arrow keys to navigate the site.
 
 ## Deployment
 1. Go to the settings section of the repository you are trying to deploy. https://github.com/SashG91/TCM-Tianjin-Cycle-Meet/settings
@@ -188,21 +186,21 @@ Here is an image of the audit results below:
 
 
 ## Credits
-The Code Institute (CI) template was used to complete this project [Full template](https://github.com/Code-Institute-Org/gitpod-full-template) 
+The Code Institute (CI) template was used to complete this project as linked here [Full template](https://github.com/Code-Institute-Org/gitpod-full-template) 
 
 ### Code
-- To support the coding learnt through Code Institute online web tutorials from w3Schools was used [w3Schools](https://www.w3schools.com/)
+- To support the coding studied through Code Institute, online web tutorials from w3Schools were also referred to [w3Schools](https://www.w3schools.com/)
 
 ### Icons
-- The icons used for the heading, footer, routes and sign up page was taken from [Font Awesome](https://fontawesome.com/v5/search?m=free) 
+- The icons used for the heading, footer, routes and sign up page were taken from [Font Awesome](https://fontawesome.com/v5/search?m=free) 
 
 - The Favicon used on the url tab for the site was applied using Favicon [Favicon](https://favicon.io/).
 
 ### Images
--The images used on the sight was from an open source PEXELS.com. [Pexels](https://www.pexels.com/).
+- The images used on the sight was from an open source PEXELS.com [Pexels](https://www.pexels.com/).
 
 ### Maps
 - Satellite Maps used for the routes page was extracted from [Google Maps](https://google-map-generator.com/)
 
 ## Acknowledgments
-- I would like to thank my mentor Malia Havlicek for detailed and useful project meetings and the suport of the CI tutor team for assiting with problems whilts building this project.
+- I would like to thank my mentor Malia Havlicek for facilitating both detailed and useful project meetings and the suport of the CI tutor team for assiting with overcoming challenges during this project.
