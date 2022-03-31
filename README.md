@@ -137,7 +137,11 @@ The website was original designed to be an easy to use platform. The site follow
 <img width="1283" alt="image" src="https://user-images.githubusercontent.com/97494070/160875366-fcb8cc39-df4a-48dc-856c-e1a67ca5600a.png">
 
 ##### Error 404 page
-- 
+- The Error 404 page was designed to warn the user that something has gone wrong. The user can then click the heading or tabs to go back to safety.
+- The header and footer is consistent on this page to give the user comfort that safety is only a click away.
+- An image consistent with the site and bold red text was used to make it more personal.
+
+<img width="1374" alt="image" src="https://user-images.githubusercontent.com/97494070/160973263-57a3a6e2-45c2-41ad-91de-44fc12922bc0.png">
 
 #### Future Features
 - A gallery page showing images taken during previous cycle meets.
