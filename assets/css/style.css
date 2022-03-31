@@ -345,11 +345,16 @@ footer a {
 @media (min-width: 320px) {
     #cover-overlay {
         padding: 15px;
-        background-color: rgba(238, 238, 238, .5);
-        color: #0074d0;
+        background-color: rgba(238, 238, 238, .6);
+        top: 145px;
+    }
+
+    .signup-form {
+        top: 145px;
+        left: 0;
+        padding: 10px;
     }
 }
-
 
 /* small devices (mobile phones, less than 576px) */
 /* medium devices (tablets, less than 768px) */
